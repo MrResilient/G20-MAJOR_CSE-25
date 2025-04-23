@@ -1,22 +1,22 @@
-# 🧠 G20-MAJOR_CSE-25  
+#  G20-MAJOR_CSE-25  
 **Major Project Repository – CSE Batch 2025**  
 *A BERT-based question-answering and summarization system for health policy documents, with dynamic question generation using T5.*
 
 ---
 
-## 📌 Requirements
+##  Requirements
 
 - **Python 3.10** (Recommended for compatibility with machine learning libraries used)
 - **Streamlit**
 - **Virtual Environment** (`venv`)
 - **Git**
 
-> ⚠️ Using Python 3.11 or higher?  
+>  Using Python 3.11 or higher?  
 Update `requirements.txt` and reinstall packages accordingly.
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Run the Application
+##  Run the Application
 
 Make sure your virtual environment is activated, then run:
 
@@ -61,7 +61,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 G20-MAJOR_CSE-25/
@@ -77,17 +77,17 @@ G20-MAJOR_CSE-25/
 
 ---
 
-## ✅ Features
+##  Features
 
-- 🔍 **BERT-based QA** for extracting specific details from lengthy policy documents  
-- ✍️ **T5-powered question generator** to dynamically create hot-point questions  
-- 📊 **Streamlit interface** for easy interaction  
-- 🗂️ **Local SQLite database** for saving summaries and user sessions  
-- ✅ Validated by multiple domain experts for accuracy and usefulness  
+-  **BERT-based QA** for extracting specific details from lengthy policy documents  
+-  **T5-powered question generator** to dynamically create hot-point questions  
+-  **Streamlit interface** for easy interaction  
+-  **Local SQLite database** for saving summaries and user sessions  
+-  Validated by multiple domain experts for accuracy and usefulness  
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Keep Python version consistent (3.10 recommended) across environments.  
 - To update dependencies after any changes, run:
@@ -100,7 +100,7 @@ pip freeze > requirements.txt
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For any query, you can contact: **shivanshjain3333@gmail.com**
 
